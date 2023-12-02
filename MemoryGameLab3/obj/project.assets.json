@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dominik\\visual_studio_c#_projects\\MemoryGameLab3\\MemoryGameLab3\\MemoryGameLab3.csproj",
-      "projectName": "MemoryGameLab3",
-      "projectPath": "C:\\dominik\\visual_studio_c#_projects\\MemoryGameLab3\\MemoryGameLab3\\MemoryGameLab3.csproj",
+      "projectUniqueName": "C:\\dominik\\visual_studio_c#_projects\\MemoryGameLab3\\MemoryGameLab3\\MemoryGame.csproj",
+      "projectName": "MemoryGame",
+      "projectPath": "C:\\dominik\\visual_studio_c#_projects\\MemoryGameLab3\\MemoryGameLab3\\MemoryGame.csproj",
       "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
       "outputPath": "C:\\dominik\\visual_studio_c#_projects\\MemoryGameLab3\\MemoryGameLab3\\obj\\",
       "projectStyle": "PackageReference",
