@@ -1,0 +1,6 @@
+dd 3
+dominik 4
+dom1 4
+dom2 3
+dominik 7
+as 3
